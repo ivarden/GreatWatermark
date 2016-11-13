@@ -8,7 +8,5 @@ Sample of great watermark service made by creative people from the heart and wit
 4. bower i
 5. php composer.phar install
 
-# Visit GreatWatermark Service : 
-http://kleviibanshik.ru/
 # View GreatWatermark Service Presentation :
 http://cyb3rd.github.io/GreatWatermark/
